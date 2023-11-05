@@ -5,7 +5,7 @@ public class Main {
         task1(new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7)));
         task2(new ArrayList<>(List.of(8, 10, 200, 1, 1, 2, 3, 4, 4, 5, 5, 6, 7)));
         task3(new ArrayList<>(List.of("orange", "apple", "pear", "apple", "orange")));
-        task3(new ArrayList<>(List.of("один", "два", "два", "три", "три", "три")));
+        task4(new ArrayList<>(List.of("один", "один", "два", "два", "три", "три", "три", "четыре")));
     }
 
     public static void task1(List<Integer> nums) {
